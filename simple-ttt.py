@@ -3,7 +3,7 @@ errors = 0
 
 print()
 print('Welcome to Tic-Tac-Toe! Grid coordinates are on the right from the grid.')
-print('Write "2 2", if you want to place X in the center.')
+print('Write "5", if you want to place X in the center.')
 
 while True:
     if errors == 0:
